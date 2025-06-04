@@ -17,34 +17,21 @@
 
 Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Front-End** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
 
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+- 👨🏽‍💻 Buscando minha primeira oportunidade na área para aplicar na prática os conhecimentos adquiridos e crescer junto com a equipe
+- 🌱 Motivado a aprender continuamente, desenvolver código de qualidade e evoluir como desenvolvedor; 
+- 🤔 Meus hobbies são jogos online e atividades fisicas;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 📫 Por favor, envie um email para kauedota@gmail.com para me encontrar.
+
 ### 🤖 Linguagens e Tecnologias
 
-
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-    
-<br/>
-<br/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
