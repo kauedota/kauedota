@@ -13,9 +13,9 @@
 
 # 👨🏽‍💻 Kauê Dota
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
-Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Front-End** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
+Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Back-End** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
 
 **Meus interesses pessoais:**
 
