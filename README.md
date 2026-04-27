@@ -14,9 +14,8 @@
 # 👨🏽‍💻 Kauê Dota
 
 **`Desenvolvedor Back-End`**
-**`QA (Quality Assurance)`**
 
-Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Back-End e também QA (Quality Assurance)** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
+Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Back-End** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
 
 **Meus interesses pessoais:**
 
