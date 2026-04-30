@@ -21,7 +21,7 @@ Me chamo Kauê Dota, sou de São Paulo, Brasil.  sou um **Desenvolvedor Back-End
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Buscando minha primeira oportunidade na área para aplicar na prática os conhecimentos adquiridos e crescer junto com a equipe
+- 👨🏽‍💻 Buscando uma oportunidade na área para aplicar na prática os conhecimentos adquiridos e crescer junto com a equipe
 - 🌱 Motivado a aprender continuamente, desenvolver código de qualidade e evoluir como desenvolvedor; 
 - 🤔 Meus hobbies são jogos online e atividades fisicas;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
