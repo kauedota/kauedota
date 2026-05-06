@@ -52,7 +52,7 @@ Atualmente, estou desenvolvendo projetos práticos para consolidar meus conhecim
 
 ## 🎓 Formação
 
-- +70 certificações (DIO, Santander, CodeInfinity)  
+- +70 certificações (DIO, Santander, Codefinity)  
 - Bootcamp: Fundamentos de Inteligência Artificial  
 - Bootcamp: TOTVS - Fundamentos de Engenharia de Dados e Machine Learning  
 - Bootcamp: Afya - Automação de Dados com IA  
