@@ -50,15 +50,6 @@ Atualmente, estou desenvolvendo projetos práticos para consolidar meus conhecim
 
 ---
 
-## 📈 Em evolução
-
-- Autenticação com JWT  
-- Testes automatizados  
-- Docker  
-- Microsserviços  
-
----
-
 ## 🎓 Formação
 
 - +70 certificações (DIO, Santander, CodeInfinity)  
