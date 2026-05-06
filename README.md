@@ -25,6 +25,7 @@ Atualmente, estou desenvolvendo projetos práticos para consolidar meus conhecim
 
 ## 🚀 Tecnologias principais
 
+- Java (Spring Boot) 
 - Python  
 - FastAPI  
 - APIs REST  
@@ -34,8 +35,7 @@ Atualmente, estou desenvolvendo projetos práticos para consolidar meus conhecim
 ---
 
 ## 🧠 Conhecimentos adicionais
-
-- Java (Spring Boot)  
+  
 - JavaScript  
 - Fundamentos de Inteligência Artificial  
 - Estrutura de Dados  
