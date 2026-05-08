@@ -52,7 +52,7 @@ Atualmente, estou desenvolvendo projetos práticos para consolidar meus conhecim
 
 ## 🎓 Formação
 
-- +70 certificações (DIO, Santander, Codefinity)  
+- +70 certificações (DIO, Santander, Codefinity) - Link https://kauedota.github.io/portal-certificacoes-kaue/
 - Bootcamp: Fundamentos de Inteligência Artificial  
 - Bootcamp: TOTVS - Fundamentos de Engenharia de Dados e Machine Learning  
 - Bootcamp: Afya - Automação de Dados com IA  
